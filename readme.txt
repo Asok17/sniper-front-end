@@ -27,14 +27,14 @@
 
 - This is just a simple css ( sass ) / html based framework to boost the speed on the project startup.
 
-- This framework uses bootstrap bootstrap 3 & material design bootstrap 3 as its code.
+- This framework uses bootstrap 3 & material design bootstrap 3 as its code.
 
 - Switch between bootstrap 3 and MDB 3 any time you want from the master.scss file which is inside src/scss folder.
 
 
 3. Getting started.............
 
-- Using gulp ? init you gulp project inside the project and check gulpfile.js
+- Using gulp ? init you gulp project inside this project and check gulpfile.js
 
 - Not using gulp ? Just downlaod or clone the repo and rename it to your project name.
 
@@ -42,13 +42,13 @@
 
 
 
-4. How it works ( For gulp uses )
+4. How it works ( For gulp uses ).............................
 
 - 
 
 
 
-5. How it works for non-gulp uses ( gulp users too read )
+5. How it works for non-gulp uses ( gulp users too read ).........................................
 
 - Hope you cover getting started chapter 3. Let me explain you the code, file & folder structure.
 
@@ -61,6 +61,28 @@
 - header.html is file where basically header portion codes goes.
 
 - Hope you understand about footer.html & sidebar.html
+
+
+6. Core Components used & their credits.............................
+
+
+- Bootstrap 3.3.7 : https://getbootstrap.com/docs/3.3/getting-started/
+
+- Material design bootstrap 3 : https://mdbootstrap.com/getting-started/
+
+- Jquery : https://jquery.com/ 
+
+- FontAwesome : https://fontawesome.io
+
+- Icemoon icons : https://icomoon.io/
+
+- Owl Couresel : https://owlcarousel2.github.io/OwlCarousel2/
+
+- Google fonts Api : https://fonts.google.com/
+
+- Gulp js : https://gulpjs.com/
+
+- Animate css : https://daneden.github.io/animate.css/
 
 
 

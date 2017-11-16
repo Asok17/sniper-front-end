@@ -1,0 +1,39 @@
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Package @ Sniper front-end 3
+
+# Author @ Anuj Subedi
+
+# Author Url @ http://anujsubedi.com.np/
+
+# License MIT ( Free to use & changes for persional and commercial uses )
+
+# Since 2017 Nov 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**/
+
+// Credits for vendors, providers & developers
+
+
+- Author - Anuj Subedi @ http://anujsubedi.com.np/
+
+- Bootstrap 3.3.7 : https://getbootstrap.com/docs/3.3/getting-started/
+
+- Material design bootstrap 3 : https://mdbootstrap.com/getting-started/
+
+- Jquery : https://jquery.com/ 
+
+- FontAwesome : https://fontawesome.io
+
+- Icemoon icons : https://icomoon.io/
+
+- Owl Couresel : https://owlcarousel2.github.io/OwlCarousel2/
+
+- Google fonts Api : https://fonts.google.com/
+
+- Gulp js : https://gulpjs.com/
+
+- Animate css : https://daneden.github.io/animate.css/
