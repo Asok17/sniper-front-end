@@ -7,6 +7,8 @@
 
 # Author Url @ http://anujsubedi.com.np/
 
+# License MIT ( Free to use & changes for persional and commercial uses )
+
 # Since 2017 Nov 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -76,7 +78,7 @@
 
 - Icemoon icons : https://icomoon.io/
 
-- Owl Couresel : https://owlcarousel2.github.io/OwlCarousel2/
+- Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
 
 - Google fonts Api : https://fonts.google.com/
 

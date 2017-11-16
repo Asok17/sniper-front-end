@@ -30,7 +30,7 @@
 
 - Icemoon icons : https://icomoon.io/
 
-- Owl Couresel : https://owlcarousel2.github.io/OwlCarousel2/
+- Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
 
 - Google fonts Api : https://fonts.google.com/
 
