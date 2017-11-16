@@ -3,13 +3,15 @@
 /*
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-# Package @ Sniper front-end
+# Framework @ Sniper Front-End 3 - https://github.com/h1dd3nsn1p3r/sniper-front-end
+
+# Package @ Your_project_name
 
 # Author @ Anuj Subedi
 
-# Author url : http://anujsubedi.com.np
+# Author Url @ http://anujsubedi.com.np/
 
-# This is index page to include the templet parts
+# License MIT ( Free to use & changes for persional and commercial uses )
 
 # Since 2017 Nov 
 
@@ -17,6 +19,7 @@
 
 **/
 
+// This is index page it includes templet parts
 
 // Include header of project
 

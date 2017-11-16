@@ -1,7 +1,9 @@
 /*
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-# Package @ Sniper front-end 3
+# Framework @ Sniper Front-End 3
+
+# Package @ Your_project_name
 
 # Author @ Anuj Subedi
 
@@ -76,7 +78,7 @@
 
 - FontAwesome : https://fontawesome.io
 
-- Icemoon icons : https://icomoon.io/
+- Ico moon icons : https://icomoon.io/
 
 - Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
 

@@ -17,5 +17,20 @@
 
 **/
 
-// Table of content scss file
 
+// This is fonts scss file to import and include typography & icon fonts
+
+
+// Import google font Lato
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700&subset=latin-ext');
+
+
+// Include fontAwesome
+
+@import '../../src/fonts/fontAwesome/font-awesome.css';
+
+
+// Inlcude ico moon icons
+
+@import '../../src/fonts/icomoon/icomoon.css';
