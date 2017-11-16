@@ -7,6 +7,8 @@
 
 # Author @ Anuj Subedi
 
+# Author url : http://anujsubedi.com.np
+
 # This is index page to include the templet parts
 
 # Since 2017 Nov 
